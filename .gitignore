@@ -1,0 +1,18 @@
+# Binaries and executables
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+hello-gopher
+
+# Test artifacts and reports
+*.test
+demo_recon_report.*
+*.out
+cover.out
+
+# OS files
+.DS_Store
+Thumbs.db
